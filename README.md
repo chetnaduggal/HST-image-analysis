@@ -1,2 +1,2 @@
-# HST-image-analysis
+# HST-image-reduction
 
