@@ -1,4 +1,4 @@
-# Compact Steep-Spectrum (CSS) host galaxies with HST 
+# A Hubble view of Compact Steep-Spectrum (CSS) host galaxies
 
 Reduction and mapping of HST/WFC3 optical/UV continuum data for a sample of compact, young radio galaxies (Cycle 25 GO program 15245; PI: C. O’Dea).
 
