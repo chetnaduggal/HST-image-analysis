@@ -4,7 +4,7 @@ Reduction and mapping of HST/WFC3 optical/UV continuum data for a sample of comp
 
 The codes include:
 
-- Post-pipeline processing of HST images with [Drizzlepac](https://www.stsci.edu/scientific-community/software/drizzlepac.html) 
+- Post-pipeline processing of HST images with the [Drizzlepac](https://www.stsci.edu/scientific-community/software/drizzlepac.html) software.
 - Mapping continuum emission in the three bands (optical, UV and radio) by reprojecting the images onto a new, optimum WCS grid to create multi-wavelength overlays.
 - The results of surface brightness analysis with [IRAF/ellipse](http://stsdas.stsci.edu/documents/SUG/UG_33.html) isophote fitting & 2D morphological decomposition with [GALFIT](https://users.obs.carnegiescience.edu/peng/work/galfit/galfit.html). The galaxy fit profiles for the latter are generated using the [Ellipsect](http://github.com/canorve/EllipSect) code.
 - Comparison of major-axis Position Angles of the observed galaxy/radio-source structure in the optical, near-UV and radio bands.
